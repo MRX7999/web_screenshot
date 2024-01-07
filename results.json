@@ -1,0 +1,482 @@
+{
+    "360.cn": {
+        "admin_pages": [],
+        "screenshot": "360.cn.png",
+        "url": "360.cn"
+    },
+    "alibaba.com": {
+        "admin_pages": [],
+        "screenshot": "alibaba.com.png",
+        "url": "alibaba.com"
+    },
+    "aliexpress.com": {
+        "admin_pages": [],
+        "screenshot": "aliexpress.com.png",
+        "url": "aliexpress.com"
+    },
+    "amazon.co.jp": {
+        "admin_pages": [],
+        "screenshot": "amazon.co.jp.png",
+        "url": "amazon.co.jp"
+    },
+    "amazon.co.uk": {
+        "admin_pages": [],
+        "screenshot": "amazon.co.uk.png",
+        "url": "amazon.co.uk"
+    },
+    "amazon.com": {
+        "admin_pages": [],
+        "screenshot": "amazon.com.png",
+        "url": "amazon.com"
+    },
+    "amazon.de": {
+        "admin_pages": [],
+        "screenshot": "amazon.de.png",
+        "url": "amazon.de"
+    },
+    "amazon.in": {
+        "admin_pages": [],
+        "screenshot": "amazon.in.png",
+        "url": "amazon.in"
+    },
+    "apple.com": {
+        "admin_pages": [],
+        "screenshot": "apple.com.png",
+        "url": "apple.com"
+    },
+    "ask.com": {
+        "admin_pages": [],
+        "screenshot": "ask.com.png",
+        "url": "ask.com"
+    },
+    "baidu.com": {
+        "admin_pages": [],
+        "screenshot": "baidu.com.png",
+        "url": "baidu.com"
+    },
+    "bbc.co.uk": {
+        "admin_pages": [],
+        "screenshot": "bbc.co.uk.png",
+        "url": "bbc.co.uk"
+    },
+    "bing.com": {
+        "admin_pages": [],
+        "screenshot": "bing.com.png",
+        "url": "bing.com"
+    },
+    "blogger.com": {
+        "admin_pages": [],
+        "screenshot": "blogger.com.png",
+        "url": "blogger.com"
+    },
+    "blogspot.com": {
+        "admin_pages": [],
+        "screenshot": "blogspot.com.png",
+        "url": "blogspot.com"
+    },
+    "booking.com": {
+        "admin_pages": [],
+        "screenshot": "booking.com.png",
+        "url": "booking.com"
+    },
+    "chinadaily.com.cn": {
+        "admin_pages": [],
+        "screenshot": "chinadaily.com.cn.png",
+        "url": "chinadaily.com.cn"
+    },
+    "cnn.com": {
+        "admin_pages": [],
+        "screenshot": "cnn.com.png",
+        "url": "cnn.com"
+    },
+    "cntv.cn": {
+        "admin_pages": [],
+        "screenshot": "cntv.cn.png",
+        "url": "cntv.cn"
+    },
+    "coccoc.com": {
+        "admin_pages": [],
+        "screenshot": "coccoc.com.png",
+        "url": "coccoc.com"
+    },
+    "craigslist.org": {
+        "admin_pages": [],
+        "screenshot": "craigslist.org.png",
+        "url": "craigslist.org"
+    },
+    "diply.com": {
+        "admin_pages": [],
+        "screenshot": "diply.com.png",
+        "url": "diply.com"
+    },
+    "dropbox.com": {
+        "admin_pages": [],
+        "screenshot": "dropbox.com.png",
+        "url": "dropbox.com"
+    },
+    "ebay.com": {
+        "admin_pages": [],
+        "screenshot": "ebay.com.png",
+        "url": "ebay.com"
+    },
+    "facebook.com": {
+        "admin_pages": [],
+        "screenshot": "facebook.com.png",
+        "url": "facebook.com"
+    },
+    "fc2.com": {
+        "admin_pages": [],
+        "screenshot": "fc2.com.png",
+        "url": "fc2.com"
+    },
+    "github.com": {
+        "admin_pages": [],
+        "screenshot": "github.com.png",
+        "url": "github.com"
+    },
+    "gmw.cn": {
+        "admin_pages": [],
+        "screenshot": "gmw.cn.png",
+        "url": "gmw.cn"
+    },
+    "go.com": {
+        "admin_pages": [],
+        "screenshot": "go.com.png",
+        "url": "go.com"
+    },
+    "google.ca": {
+        "admin_pages": [],
+        "screenshot": "google.ca.png",
+        "url": "google.ca"
+    },
+    "google.co.id": {
+        "admin_pages": [],
+        "screenshot": "google.co.id.png",
+        "url": "google.co.id"
+    },
+    "google.co.in": {
+        "admin_pages": [],
+        "screenshot": "google.co.in.png",
+        "url": "google.co.in"
+    },
+    "google.co.jp": {
+        "admin_pages": [],
+        "screenshot": "google.co.jp.png",
+        "url": "google.co.jp"
+    },
+    "google.co.kr": {
+        "admin_pages": [],
+        "screenshot": "google.co.kr.png",
+        "url": "google.co.kr"
+    },
+    "google.co.uk": {
+        "admin_pages": [],
+        "screenshot": "google.co.uk.png",
+        "url": "google.co.uk"
+    },
+    "google.com": {
+        "admin_pages": [],
+        "screenshot": "google.com.png",
+        "url": "google.com"
+    },
+    "google.com.au": {
+        "admin_pages": [],
+        "screenshot": "google.com.au.png",
+        "url": "google.com.au"
+    },
+    "google.com.br": {
+        "admin_pages": [],
+        "screenshot": "google.com.br.png",
+        "url": "google.com.br"
+    },
+    "google.com.hk": {
+        "admin_pages": [],
+        "screenshot": "google.com.hk.png",
+        "url": "google.com.hk"
+    },
+    "google.com.mx": {
+        "admin_pages": [],
+        "screenshot": "google.com.mx.png",
+        "url": "google.com.mx"
+    },
+    "google.com.tr": {
+        "admin_pages": [],
+        "screenshot": "google.com.tr.png",
+        "url": "google.com.tr"
+    },
+    "google.com.tw": {
+        "admin_pages": [],
+        "screenshot": "google.com.tw.png",
+        "url": "google.com.tw"
+    },
+    "google.de": {
+        "admin_pages": [],
+        "screenshot": "google.de.png",
+        "url": "google.de"
+    },
+    "google.es": {
+        "admin_pages": [],
+        "screenshot": "google.es.png",
+        "url": "google.es"
+    },
+    "google.fr": {
+        "admin_pages": [],
+        "screenshot": "google.fr.png",
+        "url": "google.fr"
+    },
+    "google.it": {
+        "admin_pages": [],
+        "screenshot": "google.it.png",
+        "url": "google.it"
+    },
+    "google.pl": {
+        "admin_pages": [],
+        "screenshot": "google.pl.png",
+        "url": "google.pl"
+    },
+    "google.ru": {
+        "admin_pages": [],
+        "screenshot": "google.ru.png",
+        "url": "google.ru"
+    },
+    "googleusercontent.com": {
+        "admin_pages": [],
+        "screenshot": "googleusercontent.com.png",
+        "url": "googleusercontent.com"
+    },
+    "hao123.com": {
+        "admin_pages": [],
+        "screenshot": "hao123.com.png",
+        "url": "hao123.com"
+    },
+    "imdb.com": {
+        "admin_pages": [],
+        "screenshot": "imdb.com.png",
+        "url": "imdb.com"
+    },
+    "imgur.com": {
+        "admin_pages": [],
+        "screenshot": "imgur.com.png",
+        "url": "imgur.com"
+    },
+    "instagram.com": {
+        "admin_pages": [],
+        "screenshot": "instagram.com.png",
+        "url": "instagram.com"
+    },
+    "jd.com": {
+        "admin_pages": [],
+        "screenshot": "jd.com.png",
+        "url": "jd.com"
+    },
+    "kat.cr": {
+        "admin_pages": [],
+        "screenshot": "kat.cr.png",
+        "url": "kat.cr"
+    },
+    "linkedin.com": {
+        "admin_pages": [],
+        "screenshot": "linkedin.com.png",
+        "url": "linkedin.com"
+    },
+    "live.com": {
+        "admin_pages": [],
+        "screenshot": "live.com.png",
+        "url": "live.com"
+    },
+    "microsoft.com": {
+        "admin_pages": [],
+        "screenshot": "microsoft.com.png",
+        "url": "microsoft.com"
+    },
+    "msn.com": {
+        "admin_pages": [],
+        "screenshot": "msn.com.png",
+        "url": "msn.com"
+    },
+    "naver.com": {
+        "admin_pages": [],
+        "screenshot": "naver.com.png",
+        "url": "naver.com"
+    },
+    "netflix.com": {
+        "admin_pages": [],
+        "screenshot": "netflix.com.png",
+        "url": "netflix.com"
+    },
+    "nicovideo.jp": {
+        "admin_pages": [],
+        "screenshot": "nicovideo.jp.png",
+        "url": "nicovideo.jp"
+    },
+    "office.com": {
+        "admin_pages": [],
+        "screenshot": "office.com.png",
+        "url": "office.com"
+    },
+    "onclickads.net": {
+        "admin_pages": [],
+        "screenshot": "onclickads.net.png",
+        "url": "onclickads.net"
+    },
+    "outbrain.com": {
+        "admin_pages": [],
+        "screenshot": "outbrain.com.png",
+        "url": "outbrain.com"
+    },
+    "paypal.com": {
+        "admin_pages": [],
+        "screenshot": "paypal.com.png",
+        "url": "paypal.com"
+    },
+    "pinterest.com": {
+        "admin_pages": [],
+        "screenshot": "pinterest.com.png",
+        "url": "pinterest.com"
+    },
+    "pixnet.net": {
+        "admin_pages": [],
+        "screenshot": "pixnet.net.png",
+        "url": "pixnet.net"
+    },
+    "popads.net": {
+        "admin_pages": [],
+        "screenshot": "popads.net.png",
+        "url": "popads.net"
+    },
+    "pornhub.com": {
+        "admin_pages": [],
+        "screenshot": "pornhub.com.png",
+        "url": "pornhub.com"
+    },
+    "qq.com": {
+        "admin_pages": [],
+        "screenshot": "qq.com.png",
+        "url": "qq.com"
+    },
+    "rakuten.co.jp": {
+        "admin_pages": [],
+        "screenshot": "rakuten.co.jp.png",
+        "url": "rakuten.co.jp"
+    },
+    "reddit.com": {
+        "admin_pages": [],
+        "screenshot": "reddit.com.png",
+        "url": "reddit.com"
+    },
+    "sina.com.cn": {
+        "admin_pages": [],
+        "screenshot": "sina.com.cn.png",
+        "url": "sina.com.cn"
+    },
+    "sohu.com": {
+        "admin_pages": [],
+        "screenshot": "sohu.com.png",
+        "url": "sohu.com"
+    },
+    "soso.com": {
+        "admin_pages": [],
+        "screenshot": "soso.com.png",
+        "url": "soso.com"
+    },
+    "stackoverflow.com": {
+        "admin_pages": [],
+        "screenshot": "stackoverflow.com.png",
+        "url": "stackoverflow.com"
+    },
+    "t.co": {
+        "admin_pages": [],
+        "screenshot": "t.co.png",
+        "url": "t.co"
+    },
+    "taobao.com": {
+        "admin_pages": [],
+        "screenshot": "taobao.com.png",
+        "url": "taobao.com"
+    },
+    "tianya.cn": {
+        "admin_pages": [],
+        "screenshot": "tianya.cn.png",
+        "url": "tianya.cn"
+    },
+    "tmall.com": {
+        "admin_pages": [],
+        "screenshot": "tmall.com.png",
+        "url": "tmall.com"
+    },
+    "tumblr.com": {
+        "admin_pages": [],
+        "screenshot": "tumblr.com.png",
+        "url": "tumblr.com"
+    },
+    "twitch.tv": {
+        "admin_pages": [],
+        "screenshot": "twitch.tv.png",
+        "url": "twitch.tv"
+    },
+    "twitter.com": {
+        "admin_pages": [],
+        "screenshot": "twitter.com.png",
+        "url": "twitter.com"
+    },
+    "weibo.com": {
+        "admin_pages": [],
+        "screenshot": "weibo.com.png",
+        "url": "weibo.com"
+    },
+    "whatsapp.com": {
+        "admin_pages": [],
+        "screenshot": "whatsapp.com.png",
+        "url": "whatsapp.com"
+    },
+    "wikia.com": {
+        "admin_pages": [],
+        "screenshot": "wikia.com.png",
+        "url": "wikia.com"
+    },
+    "wikipedia.org": {
+        "admin_pages": [],
+        "screenshot": "wikipedia.org.png",
+        "url": "wikipedia.org"
+    },
+    "wordpress.com": {
+        "admin_pages": [],
+        "screenshot": "wordpress.com.png",
+        "url": "wordpress.com"
+    },
+    "xhamster.com": {
+        "admin_pages": [],
+        "screenshot": "xhamster.com.png",
+        "url": "xhamster.com"
+    },
+    "xinhuanet.com": {
+        "admin_pages": [],
+        "screenshot": "xinhuanet.com.png",
+        "url": "xinhuanet.com"
+    },
+    "xvideos.com": {
+        "admin_pages": [],
+        "screenshot": "xvideos.com.png",
+        "url": "xvideos.com"
+    },
+    "yahoo.co.jp": {
+        "admin_pages": [],
+        "screenshot": "yahoo.co.jp.png",
+        "url": "yahoo.co.jp"
+    },
+    "yahoo.com": {
+        "admin_pages": [],
+        "screenshot": "yahoo.com.png",
+        "url": "yahoo.com"
+    },
+    "youth.cn": {
+        "admin_pages": [],
+        "screenshot": "youth.cn.png",
+        "url": "youth.cn"
+    },
+    "youtube.com": {
+        "admin_pages": [],
+        "screenshot": "youtube.com.png",
+        "url": "youtube.com"
+    }
+}
